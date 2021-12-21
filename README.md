@@ -4,7 +4,7 @@
 </div>
 
 ## Lecturer:
-- **MSc. Nguyen Thanh Son**   
+- **Nguyen Thanh Son, MSc**   
 ## Group ID: N008
 
 ### Team member:
